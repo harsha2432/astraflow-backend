@@ -57,7 +57,19 @@
 			<scope>test</scope>
 		</dependency>
 
-	</dependencies>
+	
+   <dependency>
+     <groupId>me.zhangjh</groupId>
+     <artifactId>gemini.sdk</artifactId>
+     <version>1.4</version>
+   </dependency>
+ 
+   <dependency>
+     <groupId>me.zhangjh</groupId>
+     <artifactId>gemini.sdk</artifactId>
+     <version>1.4</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
